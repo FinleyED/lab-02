@@ -18,17 +18,9 @@ staff <- read_csv("data/instructional-staff.csv")
 
 --------
 
-
-Team member 1 should pull to download updates and begins here.
-
-
-
 ### Exercise 1
 
 5x11 so 55 rows
-
-
-Team member 1 should knit, stage & commit, and push all changes to GitHub.
 
 --------
 
