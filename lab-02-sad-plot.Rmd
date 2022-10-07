@@ -48,11 +48,8 @@ Yes it looks right.
 ```
 
 
-Team member 2 should knit, stage & commit, and push all changes to GitHub.
 
 --------
-
-Team member 3 should pull to download updates and begins here.
 
 
 ### Exercise 4
@@ -68,19 +65,9 @@ staff_long %>%
 
 ### Exercise 5
 
-*Remove this text and add your answer here.*
-
-```{r lineplot-2}
-# remove this comment and add your code here
-```
-
-
-Team member 3 should knit, stage & commit, and push all changes to GitHub.
+Part time faculty greatly increased
 
 --------
-
-Next team member should pull to download updates and continue from here.
-
 
 ### Exercise 6
 
