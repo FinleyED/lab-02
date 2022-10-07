@@ -41,10 +41,10 @@ staff_long <- staff %>%
 
 ### Exercise 3
 
-Yes it looks right
+
 
 ```{r staff-long-inspect}
-# remove this comment and add your code here
+Yes it looks right.
 ```
 
 
@@ -57,10 +57,12 @@ Team member 3 should pull to download updates and begins here.
 
 ### Exercise 4
 
-*Remove this text and add your answer here.*
+
 
 ```{r lineplot-1}
-# remove this comment and add your code here
+staff_long %>%
+  ggplot(mappings = aes(x = Year, y = "Percentage of highers", color = faculty_type)) +
+  geom_line()
 ```
 
 
