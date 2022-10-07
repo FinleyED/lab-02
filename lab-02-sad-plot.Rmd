@@ -41,7 +41,7 @@ staff_long <- staff %>%
 
 ### Exercise 3
 
-*Remove this text and add your answer here.*
+Yes it looks right
 
 ```{r staff-long-inspect}
 # remove this comment and add your code here
